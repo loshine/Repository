@@ -41,3 +41,7 @@ const Positioned({
   @required Widget child,
 })
 ```
+
+## IndexedStack
+
+IndexedStack 继承自 Stack，它的作用是显示第 index 个 child，其他 child 都是不可见的。

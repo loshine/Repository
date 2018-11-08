@@ -1,8 +1,10 @@
-# OverflowBox
+# OverflowBox, SizedOverflowBox
+
+## OverflowBox
 
 允许 child 比自身大的控件
 
-## 属性
+### 属性
 
 * alignment: 对齐方式。
 * minWidth: 允许child的最小宽度。如果child宽度小于这个值，则按照最小宽度进行显示。
@@ -10,7 +12,7 @@
 * minHeight: 允许child的最小高度。如果child高度小于这个值，则按照最小高度进行显示。
 * maxHeight: 允许child的最大高度。如果child高度大于这个值，则按照最大高度进行展示。
 
-## 示例
+### 示例
 
 ```dart
 Container(
@@ -32,3 +34,12 @@ Container(
 ```
 
 ![overflow-box](https://i.imgur.com/0MnsOHQ.png)
+
+## SizedOverflowBox
+
+SizedBox 与 OverflowBox的结合体。
+
+### 属性
+
+* `size`: 固定的尺寸
+* `alignment`: 对齐方式
