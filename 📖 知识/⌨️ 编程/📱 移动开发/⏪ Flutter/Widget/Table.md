@@ -51,4 +51,4 @@ Table(
 )
 ```
 
-![table](https://imgur.com/ek9NBnP.png)
+![table](https://i.imgur.com/ek9NBnP.png)

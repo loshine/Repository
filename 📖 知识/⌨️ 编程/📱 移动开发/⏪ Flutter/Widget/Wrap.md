@@ -44,4 +44,4 @@ Wrap(
 )
 ```
 
-![wrap](https://imgur.com/LiVL5ZX.png)
+![wrap](https://i.imgur.com/LiVL5ZX.png)
